@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:5
+#EXTINF:4.189889,
+https://xiaomagua666.github.io/img/09/23/17/DBKI3L5N5RAD.jpg
+#EXTINF:4.166667,
+https://xiaomagua666.github.io/img/09/23/17/S2SMDCHPBBCT.jpg
+#EXTINF:4.166667,
+https://xiaomagua666.github.io/img/09/23/17/BVEZ2BU00RXQ.jpg
+#EXTINF:4.166667,
+https://xiaomagua666.github.io/img/09/23/17/DJHSA6RDKHCP.jpg
+#EXTINF:1.533333,
+https://xiaomagua666.github.io/img/09/23/17/4TLHC85Q5UCU.jpg
+#EXT-X-ENDLIST
